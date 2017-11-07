@@ -1,0 +1,91 @@
+{
+	"HEADER": "K08 C HOWE-Buendelgestell.asm",
+	
+	"rod": [
+	
+		{"DIAMETER": 16, "LENGTH": 260, "STEEL": "S235JR"},
+		{"DIAMETER": 6, "LENGTH": 154, "STEEL": "S235JR"},
+		{"DIAMETER": 12, "LENGTH": 354, "STEEL": "S235JR"}
+	
+	],
+	
+	"flat_bar": [
+	
+		{"THICKNESS": 8, "WIDTH": 50, "LENGTH": 1120, "STEEL": "S235JR"},
+		{},
+		{}
+	
+	],
+	
+	"metal_sheet": [
+	
+		{"THICKNESS": 4, "WIDTH": 356, "LENGTH": 650, "STEEL": "S235JR"},
+		{},
+		{}
+	
+	],
+	
+	"round_tube": [
+		
+		{"THICKNESS": 2.9, "OUTTER_DIAMETER": 17.2, "LENGTH": 840, "STEEL": "S235JR"},
+		{},
+		{}
+		
+	],
+	
+	"square_tube": [
+		
+		{"THICKNESS": 2, "DIM_A": 40, "LENGTH": 458, "STEEL": "S235JR"},
+		{},
+		{}
+		
+	],
+	
+	"rect_tube": [
+		
+		{"THICKNESS": 3, "DIM_A": 60, "DIM_B": 30, "LENGTH": 605, "STEEL": "S235JR"},
+		{},
+		{}
+		
+	],
+	
+	"cold_angle": [
+		
+		{"THICKNESS": 4, "DIM_A": 60, "DIM_B": 40, "LENGTH": 900, "STEEL": "S235JR"},
+		{},
+		{}
+		
+	],
+	
+	"hot_angle": [
+		
+		{"THICKNESS": 5, "DIM_A": 50, "DIM_B": 50, "LENGTH": 780, "STEEL": "S235JR"},
+		{},
+		{}
+		
+	],
+	
+	"bolt": [
+		
+		{"TYPE": "M8", "LENGTH": 50, "HEAD": "Hexagonal", "STANDARD": "ISO 4017"},
+		{},
+		{}
+		
+	],
+	
+	"nut": [
+
+		{"TYPE": "M8", "HEAD": "Hexagonal", "STANDARD": "DIN 982"},
+		{},
+		{}
+		
+	],
+	
+	"washer": [
+	
+		{"THICKNESS": 2, "INNER_DIAMETER": 8.4, "STANDARD": "DIN 125"},
+		{},
+		{}
+		
+	]
+}
